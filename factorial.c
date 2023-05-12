@@ -6,7 +6,7 @@ int fact(int numb)
      int n = numb;
      int i = 1;
      int x = 1;
-     while (i < n) // ta vaghti i kamtar az n hast
+     while (i < n)
      {
           ++i;
           x = x * i;
