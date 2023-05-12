@@ -1,11 +1,10 @@
+
 #include <stdio.h>
 
 int fact(int numb)
 {
 
-     int n = numb;
-     int i = 1;
-     int x = 1;
+     int n = numb, i = 1, x = 1;
      while (i < n)
      {
 
